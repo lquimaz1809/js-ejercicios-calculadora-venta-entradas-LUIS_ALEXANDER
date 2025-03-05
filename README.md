@@ -1,10 +1,10 @@
 # js-ejercicios-calculadora-venta-entradas-LUIS_ALEXANDER
             EJERCICIO CALCUALADORA
-                HTML
+                                                HTML
 Este HTML define una interfaz para una calculadora. Tiene un formulario con un campo de texto para mostrar resultados y botones organizados en una tabla. Los botones están divididos en números (1-9, 0) y operaciones matemáticas (suma, resta, multiplicación, división y borrar). Además, incluye un script externo (calculadora.js) para manejar la lógica de la calculadora.
-                    CSS
+                                            
+                                                CSS
 Este CSS estiliza la calculadora. Aquí está lo más importante:
-
 - El fondo de la página tiene un gradiente de colores magenta a tomate.
 - Se usan estilos de diseño flexible (`flex`) para centrar la calculadora en la pantalla.
 - La tabla de la calculadora tiene bordes colapsados y ocupa 300px de altura.
@@ -12,7 +12,8 @@ Este CSS estiliza la calculadora. Aquí está lo más importante:
 - El campo de texto tiene un fondo oscuro y los números se alinean a la derecha.
 - Los botones cambian de color al pasar el ratón por encima y tienen un efecto de escala al hacer clic, con sombras suaves.
 - Los botones de operaciones (como suma, resta) tienen colores específicos (rojo, azul, verde), con el botón de igual siendo verde y destacándose más.  
-                    JAVASCRIPT
+
+                                                  JAVASCRIPT
 Este JavaScript maneja la lógica de la calculadora:
 
 1. **Variables**: Se obtienen los elementos de la calculadora y el campo de resultado.
